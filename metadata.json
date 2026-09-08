@@ -1,0 +1,6 @@
+{
+  "name": "KisanSetu",
+  "description": "Comprehensive rural Agri-Tech platform connecting Indian farmers with equipment rentals, direct produce markets (Broker Hatao), land leasing, and government schemes in Hindi and English.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
